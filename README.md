@@ -5,7 +5,7 @@ Projeto da disciplina IF977 - Engenharia de Software - do curso de Bacharelado e
 
 <ul>
   <li>Equipe:</li>
-  <li>Eweton - EFFS</li>
+  <li>Ewerton - EFFS</li>
   <li>Gabriel - GSF4</li>
   <li>Henrique - HMF</li>
   <li>Lucas - LPS6</li>
